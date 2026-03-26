@@ -41,11 +41,5 @@ To master Tableau and create interactive dashboards that communicate insights cl
 
 ---
 
-## 🚀 Next Steps
-- Add example Tableau workbooks for each topic in `workbooks/` folder  
-- Build mini projects (Sales Dashboard, Customer Analysis Dashboard) in `projects/` folder  
-
----
-
 ## 👨‍💻 Author
 Saikrishna Oruganti
